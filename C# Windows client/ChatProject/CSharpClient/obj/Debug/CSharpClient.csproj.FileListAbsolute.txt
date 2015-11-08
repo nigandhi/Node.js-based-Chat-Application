@@ -1,0 +1,13 @@
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\bin\Debug\CSharpClient.exe.config
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\bin\Debug\CSharpClient.exe
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\bin\Debug\CSharpClient.pdb
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\obj\Debug\MainWindow.baml
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\obj\Debug\MainWindow.g.cs
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\obj\Debug\App.g.cs
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\obj\Debug\CSharpClient_MarkupCompile.cache
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\obj\Debug\CSharpClient.g.resources
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\obj\Debug\CSharpClient.Properties.Resources.resources
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\obj\Debug\CSharpClient.csproj.GenerateResource.Cache
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\obj\Debug\CSharpClient.exe
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\obj\Debug\CSharpClient.pdb
+C:\Users\Nirav\Desktop\Semester3\DO\FinalProj\try1\ChatProject\CSharpClient\obj\Debug\CSharpClient.csprojResolveAssemblyReference.cache
